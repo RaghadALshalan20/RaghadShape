@@ -17,7 +17,7 @@ public class Rectangle {
     public int getArea() { 
         return length*breadth; // write code to calculate area here
     } 
-    
+    // traine
     // add new method in new brang (forprimeter)
     public int getPrimeter(){
         return 2*(length+breadth);
