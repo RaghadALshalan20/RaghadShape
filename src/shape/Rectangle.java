@@ -18,6 +18,10 @@ public class Rectangle {
         return length*breadth; // write code to calculate area here
     } 
     
+    // add new method in new brang (forprimeter)
+    public int getPrimeter(){
+        return 2*(length+breadth);
+    }
     // write code to calculate perimeter here
     // getPerimeter()
     
